@@ -13,4 +13,4 @@ This project demonstrates the implementation of polynomial regression using synt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/polynomial-regression.git
+   git clone https://github.com/Moussa-Kalla/polynomial-regression.git
